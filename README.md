@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @dzoibo
-- I'm a Front End developer, Web integrator
+- 👋 Hi, I’m ivan Dzoibo
+- I'm a Front End developer, mobile/web integrator
