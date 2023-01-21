@@ -20,10 +20,6 @@
 
 [![Dzoibo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0)](https://github.com/Kh/github-readme-stats)
 
- <div align="center">
-  <a href="https://github.com/dzoibo/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Khadeeejah&style=for-the-badge">
-</a>
 
 &nbsp;
 ## 💻 Technologies I Work With
